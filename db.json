@@ -1,3 +1,19 @@
 {
-  "books": []
+  "books": [
+    {
+      "id": "iEuOBYkU",
+      "title": "The Little Book of Semaphores",
+      "author": "Allen B. Downey "
+    },
+    {
+      "id": "ukjXyUuM",
+      "title": "The Elements of Programming Style",
+      "author": "Brian W. Kernighan and Phillip J. Plauger"
+    },
+    {
+      "id": "xVuAGAZY",
+      "title": "Some title of book",
+      "author": "Alexander K. Mario"
+    }
+  ]
 }
